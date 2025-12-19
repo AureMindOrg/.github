@@ -1,22 +1,22 @@
 ---
-name: ✨ Feature Request
-about: Suggest an idea or enhancement for AureMind
-title: "[FEATURE] "
+name: Feature Request
+about: Suggest an idea or enhancement
+title: "[FEATURE]: "
 labels: enhancement
-assignees: ""
+assignees: ''
 ---
 
-## 🚀 Feature Summary
-A clear and concise description of the feature.
+## 🚀 Feature description
+A clear and concise description of the feature you are proposing.
 
-## 🤔 Problem Statement
-What problem does this feature solve?
+## 🤔 Problem statement
+Is your feature request related to a problem? Please describe.
 
-## 💡 Proposed Solution
+## 💡 Proposed solution
 Describe the solution you’d like to see implemented.
 
-## 🔄 Alternatives Considered
+## 🔄 Alternatives considered
 Describe any alternative solutions or features you’ve considered.
 
-## 📝 Additional Context
-Add any other context, diagrams, or screenshots here.
+## 📎 Additional context
+Add any other context or screenshots about the feature request here.
