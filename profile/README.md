@@ -18,10 +18,10 @@ Our mission is to explore ideas at the intersection of **technology, creativity,
 
 We are grateful to everyone who contributes to AureMindOrg:
 
-- **[Dhruv Kashyap](https://github.com/Dhruv111-coder)** — GitHub: `Dhruv111-coder`  
-- **[Prashant Nath](https://github.com/NathPrashant)** — GitHub: `NathPrashant`  
-- **[Demas Fadel Anggara](https://github.com/demuuus)** — GitHub: `demuuus`  
-- **[Anuj Rajput](https://github.com/iamnotAnuj)** — GitHub: `iamnotAnuj`  
+- **[Dhruv Kashyap](https://github.com/Dhruv111-coder)**
+- **[Prashant Nath](https://github.com/NathPrashant)** 
+- **[Demas Fadel Anggara](https://github.com/demuuus)**
+- **[Anuj Rajput](https://github.com/iamnotAnuj)**
 
 ---
 
