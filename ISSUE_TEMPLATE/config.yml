@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Forum
+    url: https://github.com/orgs/community/discussions
+    about: Share your questions and ideas with other community members
+  - name: GitHub Status
+    url: https://www.githubstatus.com
+    about: Check the current status of GitHub services
