@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Forum
-    url: https://github.com/orgs/community/discussions
-    about: Share your questions and ideas with other community members
-  - name: GitHub Status
-    url: https://www.githubstatus.com
-    about: Check the current status of GitHub services
+  - name: ❌ Help with Extensions
+    url: https://aniyomi.org/docs/faq/browse/extensions
+    about: For extension-related questions/issues
+  - name: 🧑‍💻 Aniyomi help discord
+    url: https://discord.gg/F32UjdJZrR
+    about: Common questions are answered here
+  - name: 🖥️ Aniyomi website
+    url: https://aniyomi.org/
+    about: Guides, troubleshooting, and answers to common questions
